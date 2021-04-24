@@ -29,11 +29,6 @@
 <!-- - [Click here to see my CV](https://nguyenthanhlong11.github.io/) -->
 
 
-<style>
-    .icon-tool {
-        margin-right: 25px;
-    }
-</style>
 
 
 ### Languages and Tools 🛠
