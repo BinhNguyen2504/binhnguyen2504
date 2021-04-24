@@ -102,7 +102,7 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
    </a>
 </div> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenbinhdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnguyen2504)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
