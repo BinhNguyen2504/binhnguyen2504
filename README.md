@@ -95,9 +95,10 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhlong11&theme=gotham)](https://github.com/nguyenthanhlong11/nguyenthanhlong11)
    </a>
-</div> -->
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnguyen2504)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 <p align="center">
   <a href="https://github.com/binhnguyen2504">
