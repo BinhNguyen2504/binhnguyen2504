@@ -99,6 +99,12 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnguyen2504)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a href="https://github.com/binhnguyen2504">
+    <img src="https://github-readme-stats.vercel.app/api?username=binhnguyen2504&border_radius=0&bg_color=19252f&text_color=fff&title_color=67b7dc&hide_border=true" alt="Github Stats" width="500">
+  </a>
+</p>
+
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
