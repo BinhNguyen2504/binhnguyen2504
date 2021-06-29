@@ -28,6 +28,7 @@
 <!-- - [Click here to see my CV](https://github.com/BinhNguyen2504)<br/> -->
 
 
+---
 
 
 ### Languages and Tools 🛠
