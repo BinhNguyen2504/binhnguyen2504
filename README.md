@@ -1,6 +1,6 @@
 <style>
 .icon-tool {
-	margin-left: 10px;
+	margin-left: 20px;
 }
 
 </style>
@@ -24,7 +24,7 @@
 <br>
 
 <p>
- <img align="right" src="./Assets/dev-working.gif" width="300px alt="programmergif">
+ <img align="right" src="./Assets/dev-working.gif" width="250px" alt="programmergif">
 </p>
 
 ### About me <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="32px"/>
@@ -40,46 +40,44 @@
 
 ### Languages and Tools 🛠
 
-<img align="left" alt="HTML5" width="35px" class="icon-tool"
+<img align="left" alt="HTML5" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img align="left" alt="CSS3" width="35px" class="icon-tool"
+<img align="left" alt="CSS3" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="35px" class="icon-tool"
+<img align="left" alt="JavaScript" width="40x" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Sass" width="35px" class="icon-tool"
+<img align="left" alt="Sass" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="React.js" width="35px" class="icon-tool"
+<img align="left" alt="React.js" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img align="left" alt="Node.js" width="26px" class="icon-tool"
+<img align="left" alt="Node.js" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
-<!-- <img align="left" alt="MongoDB" width="26px" class="icon-tool"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
+<img align="left" alt="MongoDB" width="40px" class="icon-tool"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<!-- <img align="left" alt="SQL" width="35px" class="icon-tool"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> -->
+<img align="left" alt="SQL" width="40px" class="icon-tool"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<!-- <img align="left" alt="GraphQL" width="35px" class="icon-tool"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
+<img align="left" alt="GraphQL" width="40px" class="icon-tool"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 
-<!-- <img align="left" alt="Git" width="35px" class="icon-tool"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
+<img align="left" alt="Git" width="40px" class="icon-tool"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<!-- <img align="left" alt="Visual Studio Code" width="35px" class="icon-tool"
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-
+<img align="left" alt="Visual Studio Code" width="40px" class="icon-tool"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 <br>
 <br>
 <br>
-
 
 <p align="center">
 	<a href="https://github.com/binhnguyen2504">
@@ -88,13 +86,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </p>
 
 
-</br>
-</br>
-
-
 <div align="center">
 
 ### If interested in me, please follow me! ❤️
+
 </div>
 
 
