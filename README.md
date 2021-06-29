@@ -32,7 +32,7 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies like MERN<br/>
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br/>
 - ⚡ Fun fact: I spend my free time on street workout<br/>
-- 💬 Ask me about anything, I am happy to help <br/>
+<!-- - 💬 Ask me about anything, I am happy to help <br/> -->
 <!-- - [Click here to see my CV](https://github.com/BinhNguyen2504)<br/> -->
 
 
@@ -57,7 +57,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <img align="left" alt="Node.js" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 
 <img align="left" alt="MongoDB" width="40px" class="icon-tool"
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
