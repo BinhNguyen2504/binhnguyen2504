@@ -15,6 +15,8 @@
 
 <br>
 
+---
+
 <p>
  <img align="right" src="./Assets/dev-working.gif" width="250px" alt="programmergif">
 </p>
