@@ -1,11 +1,3 @@
-<style>
-.icon-tool {
-	margin-left: 20px;
-}
-
-</style>
-
-
 <p>
   <h1 align="center"><b>Hello, Welcome to my Github Profile! </b><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100" /></h1>
 </p>
