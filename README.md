@@ -84,8 +84,13 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnguyen2504&include_all_commits=true&count_private=true&show_icons=true&title_color=D93A7C&icon_color=F7D747&text_color=A9FEF7&bg_color=0,000000,141321&" alt="Bình Nguyễn's Github Stats">
 	<br>
+	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=binhnguyen2504&theme=tokyonight">
+	<br>
+	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhnguyen2504&layout=compact&theme=tokyonight&langs_count=6">
+	<br>
+	<br>
 	<img src="https://activity-graph.herokuapp.com/graph?username=binhnguyen2504&theme=react-dark&hide_border=true">
 </p>
 
