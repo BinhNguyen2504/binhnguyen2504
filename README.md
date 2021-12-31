@@ -31,7 +31,6 @@
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.<br/>
 - ⚡ Fun fact: I spend my free time on street workout<br/>
 <!-- - 💬 Ask me about anything, I am happy to help <br/> -->
-<!-- - [Click here to see my CV](https://github.com/BinhNguyen2504)<br/> -->
 
 ---
 
@@ -76,7 +75,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </p>
 
 <br>
-<br>
+### Personal Projects
+- [Sebs](https://sebs.cf)
+- [Youtube playlist](https://youtube-playlist.vercel.app/)
+- [eCinema](https://www.nguyenvanbinh.cf/)
+
 <br>
 
 # Github Status
