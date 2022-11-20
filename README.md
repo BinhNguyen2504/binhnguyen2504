@@ -76,12 +76,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br>
 
-### Personal Projects
-- [Sebs](https://sebs.cf)
-- [Youtube playlist](https://youtube-playlist.vercel.app/)
-- [eCinema](https://www.nguyenvanbinh.cf/)
-- [MyBlog](https://www.binhnguyen.cf/)
-- [Lofi-music](https://binhnguyenhcmus.cf/)
 
 <br>
 
