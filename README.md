@@ -15,7 +15,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20BinhNguyen%20~%20A%20third-year%20student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20BinhNguyen%20~%20A%20final-year%20student)](https://git.io/typing-svg)
 
 ---
 
